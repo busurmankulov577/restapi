@@ -1,0 +1,24 @@
+{
+  "author": "Damirbek Busurmankulov",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  },
+  "description": "rest api fullstack example",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "keywords": [
+    "js",
+    "rest",
+    "api"
+  ],
+  "license": "ISC",
+  "main": "app.js",
+  "name": "rest-api",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "nodemon app.js"
+  },
+  "version": "1.0.0"
+}
